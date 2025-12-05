@@ -604,34 +604,3 @@ section:nth-child(4) { animation-delay: 0.3s; }
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(var(--primary-dark), var(--secondary-dark));
 }:
-
-/* ---------- IMAGES DEPUIS DOSSIER LOCAL ---------- */
-header {
-    position: relative;
-    overflow: visible;
-}
-
-.coin-gauche,
-.coin-droit {
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    z-index: 1;
-    opacity: 0.7;
-    filter: brightness(1.1);
-}
-
-.coin-gauche {
-    top: -15px;
-    left: -15px;
-    background-image: url('Alex-droid-maker.github.io/Logo entreprise.png');
-}
-
-.coin-droit {
-    top: -15px;
-    right: -15px;
-    background-image: url('Alex-droid-maker.github.io/Logo entreprise.png');
-}
-
