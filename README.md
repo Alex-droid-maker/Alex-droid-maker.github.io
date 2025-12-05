@@ -1,4 +1,3 @@
-# Alex-droid-maker.github.io
 # Eat'Student - Projet de Site Web
 
 Ce projet a été développé dans le cadre de l'Unité d'Enseignement "Professionalisation" de la deuxième année de Licence MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises). Dans le contexte de cette UE axée sur l'acquisition de compétences professionnelles pratiques, notre équipe a conçu et implémenté un site web complet pour présenter le projet fictif "Eat'Student", une initiative innovante visant à lutter simultanément contre la précarité alimentaire étudiante et le gaspillage alimentaire.
