@@ -626,11 +626,12 @@ header {
 .coin-gauche {
     top: -15px;
     left: -15px;
-    background-image: url('./Logo entreprise.png');
+    background-image: url('Alex-droid-maker.github.io/Logo entreprise.png');
 }
 
 .coin-droit {
     top: -15px;
     right: -15px;
-    background-image: url('./Logo entreprise.png');
+    background-image: url('Alex-droid-maker.github.io/Logo entreprise.png');
 }
+
